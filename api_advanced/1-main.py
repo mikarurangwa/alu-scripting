@@ -1,5 +1,7 @@
 #!/usr/bin/python3
-
+"""
+Test script for the Reddit API function
+"""
 import sys
 
 if __name__ == '__main__':
